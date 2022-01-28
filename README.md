@@ -13,6 +13,7 @@ Instructions For Challenge
 
 - There are currently 5 failing tests in test/portfolio_management_tests.exs
 - Your Job is to adjust the functions in portfolio_management.ex so these all pass.
+- Are there any changes you'd make to the schema structure? Any additional tests you think would be valuable?
 
 Domain Information/Terminology:
 
