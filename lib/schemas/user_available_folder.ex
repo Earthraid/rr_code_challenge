@@ -4,7 +4,7 @@ defmodule Schemas.UserAvailableFolder do
 
   schema "user_available_folders" do
     belongs_to :customer_folder, Schemas.CustomerFolder
-    belongs_to :vendor, Schemas.User
+    belongs_to :user, Schemas.User
 
     timestamps()
   end
